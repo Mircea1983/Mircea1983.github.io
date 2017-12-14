@@ -1,0 +1,4 @@
+//transmiterea unei variabile prin:
+-variabilă globala
+-pointer
+-referință
