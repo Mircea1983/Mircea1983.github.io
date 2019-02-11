@@ -60,7 +60,7 @@
 </video>
 
 <script src = "tema4.js"></script>
-<p>Presentation <a href="https://youtu.be/Qc-aNL6egpY" target"</a>.</p>
+<p><a href="https://youtu.be/Qc-aNL6egpY" target"</a>.</p>
 </br>
 <p style="font-size:180%;">Morariu - Mircea - Master SEIA 1 - Tema 4.</p>
 
