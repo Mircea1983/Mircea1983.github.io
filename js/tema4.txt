@@ -54,13 +54,13 @@
 
 <video id= width="720" height="1080">
 
-  <source src= "https://www.youtube.com/watch""video/mp4">
+  <source src= "https://youtu.be/Qc-aNL6egpY""video/mp4">
 
   
 </video>
 
 <script src = "tema4.js"></script>
-<p>Presentation <a href="https://www.youtube.com/watch?v=Qc-aNL6egpY&feature=share&fbclid=IwAR33rZZ44qvpH6Dian0CaDR_fPzbMrnQiIM_sJg0par6P9yUDNyHvAcbZoY" target"</a>.</p>
+<p>Presentation <a href="https://youtu.be/Qc-aNL6egpY" target"</a>.</p>
 </br>
 <p style="font-size:180%;">Morariu - Mircea - Master SEIA 1 - Tema 4.</p>
 
