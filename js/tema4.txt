@@ -52,9 +52,9 @@
 
 
 
-<video id="Alison Wonderland " width="720" height="576">
+<video id= width="auto" height="auto">
 
-  <source src="Alison Wonderland" "video/mp4">
+  <source src= "video/mp4">
 
   
 </video>
