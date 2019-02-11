@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<style>
+
+.button {
+    background-color: #00008B;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.Play Video {
+    background-color: #00008B; /* DarkBlue */
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.Pause Video {
+    background-color: #00008B; /* DarkBlue */
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.Play Video {padding: 14px 40px;}
+.Pause Video {padding: 14px 40px;}
+</style>
+</head>
+<body>
+
+<p>UI version = 2018.01.29.0</p>
+<p id = "id_business_version"></p>
+
+<button onclick="playVid()" type="button" class="button">Play Video</button>
+<button onclick="pauseVid()" type="button" class="button">Pause Video</button><br> 
+
+
+
+<video id="ktm_video" width="720" height="576">
+
+  <source src="ktm_video.mp4" type="video/mp4">
+  <source src="ktm_video.ogg" type="video/ogg">
+  
+</video>
+
+<script src = "tema4.js"></script>
+<p>Presentation <a href="https://www.youtube.com/watch?v=5y41nL_fcOI" target="</a>.</p>
+</br>
+<p style="font-size:180%;">Morariu - Mircea - Master SEIA 1 - Tema 4.</p>
+
+</body>
+
+</html>
