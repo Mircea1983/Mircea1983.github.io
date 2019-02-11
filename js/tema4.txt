@@ -52,7 +52,7 @@
 
 
 
-<video id= width="720p" height="auto">
+<video id= width="720" height="1080">
 
   <source src= "https://www.youtube.com/watch?v=Qc-aNL6egpY&feature=share&fbclid=IwAR33rZZ44qvpH6Dian0CaDR_fPzbMrnQiIM_sJg0par6P9yUDNyHvAcbZoY""video/mp4">
 
