@@ -34,6 +34,6 @@
 
 	// Inject YouTube API script
 	var tag = document.createElement('script');
-	tag.src = "https://www.youtube.com/player_api";
+	tag.src = "https://youtu.be/Qc-aNL6egpY";
 	var firstScriptTag = document.getElementsByTagName('script')[0];
 	firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
