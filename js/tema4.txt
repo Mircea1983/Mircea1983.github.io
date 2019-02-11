@@ -47,7 +47,7 @@
 <p>UI version = 2018.01.29.0</p>
 <p id = "id_business_version"></p>
 
-<button onclick="playVid()" type="button" class="button">Play Video</button><br>
+<button onclick="playVid()" type="button" class="button">Play Video</button>
 <button onclick="pauseVid()" type="button" class="button">Pause Video</button><br> 
 
 
